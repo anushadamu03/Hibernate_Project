@@ -1,0 +1,5 @@
+co\edureka\hibernate\SaveStudents.class
+co\edureka\hibernate\entity\Student.class
+co\edureka\hibernate\utils\HibernateUtils.class
+co\edureka\hibernate\UpdateStudent.class
+co\edureka\hibernate\DeleteStudent.class
